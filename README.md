@@ -1,1 +1,1 @@
-# livox-core-js
+# nim core
